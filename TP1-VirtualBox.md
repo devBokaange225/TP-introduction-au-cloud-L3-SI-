@@ -1,4 +1,5 @@
 # Compte rendu du TP1 : Installation de VirtualBox et création d'une VM Ubuntu
+## Trinôme : GRAH GRACE DIVINE SEPHORA / BOKA ANGE ERNEST / ZOBO YVANN JUNIOR
 **Cours :** Introduction au Cloud  
 **Classe :** L3 SI RIST & BDGL  
 

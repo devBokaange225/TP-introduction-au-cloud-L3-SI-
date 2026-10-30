@@ -1,5 +1,5 @@
 # TP 2 — Deux machines virtuelles en réseau avec VirtualBox
-## Binôme : NOM1 - NOM2
+## Trinôme : GRAH GRACE DIVINE SEPHORA / BOKA ANGE ERNEST / ZOBO YVANN JUNIOR
 
 ---
 
